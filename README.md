@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abhij33t-9120
 - 👀 I’m interested in coding. What else would i do here???
-- 🌱 I’m currently learning MERN , Android Development
 - 📫 Contact me at Abhijeetkarmakar1920@gmail.com
 
 <!---
